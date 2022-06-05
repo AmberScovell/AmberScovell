@@ -1,4 +1,5 @@
-Hi, I’m @AmberScovell. I am a recent graduate from Ball State University and I am looking for a data scientist job with a focus on psychological data. Currently, I am expanding my portfolio to demonstrate my skills and to expand my understanding of psychology, statistics, the intersection between both, and other fields to become a well rounded person and grow.
+Hi, I’m Merlin Star. Currently, I am expanding my portfolio to demonstrate my skills and to expand my understanding of psychology, statistics, the intersection between both, and other fields to become a well rounded person and grow. In the future, I would like to work in Canada wither as a professor or as a data scientist.
+
 My education is a bachelor's in Mathematics with honors and a master's in Quantitative Psychology. I have past experience with tutoring and customer service.
 Link to LinkedIn profile: https://www.linkedin.com/in/amber-s-363521177
 
